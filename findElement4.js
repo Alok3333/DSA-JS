@@ -40,6 +40,7 @@ function findElement(arr, x) {
       return i;
     }
   }
+  return -1;
 }
 
 let result = findElement(arr, x);
