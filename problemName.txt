@@ -1,0 +1,10 @@
+1. FindQuadrant
+2. NaturalSum
+3. LeapYear
+4. FindElement
+5. CheckMagicSquare
+6. SortArray using sort() method
+7. CyclicRotation
+8. Capitalise
+9. CountVowels
+10. Palindrome (Number/String)
