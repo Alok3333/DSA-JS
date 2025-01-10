@@ -9,3 +9,4 @@
 9. CountVowels
 10. Palindrome (Number/String)
 11. Binary Search
+12. FizzBuzz
