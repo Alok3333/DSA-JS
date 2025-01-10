@@ -8,3 +8,4 @@
 8. Capitalise
 9. CountVowels
 10. Palindrome (Number/String)
+11. Binary Search
