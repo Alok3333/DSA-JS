@@ -10,3 +10,5 @@
 10. Palindrome (Number/String)
 11. Binary Search
 12. FizzBuzz
+13. Pyramid Pattern
+14. Most Frequent (hashMap)
